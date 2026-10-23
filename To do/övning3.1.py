@@ -1,1 +1,0 @@
-pris = float(input("grundpris?"))
